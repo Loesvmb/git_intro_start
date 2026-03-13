@@ -11,5 +11,5 @@ void loop() {
     delay(500);
   }
   Serial.println("Hello World");
-  delay(2000);
+  delay(100*geboortedag);
 }
